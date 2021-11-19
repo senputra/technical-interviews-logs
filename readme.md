@@ -1,5 +1,8 @@
 # Interview Collections
 
+Here are the collected interview questions asked by companies in Singapore (unless stated otherwise). 
+Please do contribute by making a PR if you want to! 🤙
+
 ## Indeed - Karat
 
 ### 1. Identify unbalanced entry and exit
